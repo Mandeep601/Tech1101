@@ -1,0 +1,35 @@
+body {
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header {
+  background-image:url('calgary-4k-downtown-skyline-calgary-tower.jpg') ;
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navbar {
+    width: 100%;
+    height: 10vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+.navbar a {
+      width: 20%;
+      display: flex;
+      text-decoration: none;
+      color: white;
+      font-size: 20px;
+      font-family: 'Lucida Sans';
+      font-weight: bold;
+      justify-content: space-around;
+ }
+  
+ a:hover {
+     background-color:red;
+ }
