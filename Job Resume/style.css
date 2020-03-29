@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(198, 245, 179);
+    margin:0px;
+    padding: 0px;
+}
+.details {
+    background-color: grey;
+    height: 20vh;
+}
+.object {
+    background-color: khaki;
+    height: 10vh;
+}
+.mark {
+    background-color: rgb(250, 121, 99);
+    height: 40vh;
+}
+.study {
+    background-color: rgb(247, 247, 136);
+    width: 30%;
+    height: 10vh;
+}
